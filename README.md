@@ -1,4 +1,4 @@
-CinderCMake
-===========
+# A simple cinder program, built with CMake
 
-A simple Cinder project built with CMake rather than Xcode
+Maximum respect to [foreample](https://github.com/forexample/cocoa-app/)
+for the heavy lifting here.
